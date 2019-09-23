@@ -1,0 +1,6 @@
+c:\users\black\documents\visual studio 2015\Projects\GeneticTsp\GeneticTsp\bin\Debug\GeneticTsp.exe.config
+c:\users\black\documents\visual studio 2015\Projects\GeneticTsp\GeneticTsp\bin\Debug\GeneticTsp.exe
+c:\users\black\documents\visual studio 2015\Projects\GeneticTsp\GeneticTsp\bin\Debug\GeneticTsp.pdb
+c:\users\black\documents\visual studio 2015\Projects\GeneticTsp\GeneticTsp\obj\Debug\GeneticTsp.csprojResolveAssemblyReference.cache
+c:\users\black\documents\visual studio 2015\Projects\GeneticTsp\GeneticTsp\obj\Debug\GeneticTsp.exe
+c:\users\black\documents\visual studio 2015\Projects\GeneticTsp\GeneticTsp\obj\Debug\GeneticTsp.pdb
